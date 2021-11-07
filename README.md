@@ -1,5 +1,9 @@
 The marketing agency Horiseon wanted a codebase that contains accessibility standards. While working through the code I consolidating CSS selectors and properties. As well as organized the HTML elements and CSS selectors to follow the semantic structure. I left comments throughout both pages to explain parts on application. 
 
+<!--link to website--!>
+
+https://alexysca.github.io/horiseon-challenge/
+
 
 <!--screenshots of my application!-->
 
